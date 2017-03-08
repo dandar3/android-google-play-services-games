@@ -12,7 +12,8 @@ Eclipse library project based on:<br/>
 
 **References:**
 - https://developers.google.com/games/services/android/
-- https://developers.google.com/android/guides/releases#november_2016_-_v100
+- https://developers.google.com/android/guides/releases#february_2017_-_v102
+- https://plus.google.com/+AndroidDevelopers/posts/dmupRXNs6Tm
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
