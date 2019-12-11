@@ -16,8 +16,8 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.android.gms.games" 
-    android:versionCode="1801"
-    android:versionName="18.0.1">
+    android:versionCode="1900"
+    android:versionName="19.0.0">
 
     <uses-sdk android:minSdkVersion="14" />
 
